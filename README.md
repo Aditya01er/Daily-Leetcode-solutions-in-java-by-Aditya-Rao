@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Aditya01er/leetcode-daily/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/Aditya01er/leetcode-daily/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Aditya01er/leetcode-daily/tree/master/0138-copy-list-with-random-pointer) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aditya01er/leetcode-daily/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aditya01er/leetcode-daily/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Depth-First Search
