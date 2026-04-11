@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Aditya01er/leetcode-daily/tree/master/0263-ugly-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aditya01er/leetcode-daily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Aditya01er/leetcode-daily/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1822-sign-of-the-product-of-an-array) |
