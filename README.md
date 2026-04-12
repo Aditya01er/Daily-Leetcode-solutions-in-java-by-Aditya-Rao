@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aditya01er/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Aditya01er/leetcode-daily/tree/master/1837-sum-of-digits-in-base-k) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Greedy
 |  |
 | ------- |
