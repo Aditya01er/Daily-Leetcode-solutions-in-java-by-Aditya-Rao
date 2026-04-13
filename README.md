@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aditya01er/leetcode-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aditya01er/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Aditya01er/leetcode-daily/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aditya01er/leetcode-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Aditya01er/leetcode-daily/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/Aditya01er/leetcode-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aditya01er/leetcode-daily/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aditya01er/leetcode-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aditya01er/leetcode-daily/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aditya01er/leetcode-daily/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Aditya01er/leetcode-daily/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -68,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aditya01er/leetcode-daily/tree/master/0023-merge-k-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aditya01er/leetcode-daily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
