@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aditya01er/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Aditya01er/leetcode-daily/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aditya01er/leetcode-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1470-shuffle-the-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1470-shuffle-the-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aditya01er/leetcode-daily/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/Aditya01er/leetcode-daily/tree/master/1920-build-array-from-permutation) |
