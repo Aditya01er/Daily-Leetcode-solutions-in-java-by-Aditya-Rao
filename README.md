@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aditya01er/leetcode-daily/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/Aditya01er/leetcode-daily/tree/master/0263-ugly-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aditya01er/leetcode-daily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aditya01er/leetcode-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aditya01er/leetcode-daily/tree/master/0067-add-binary) |
 | [0645-set-mismatch](https://github.com/Aditya01er/leetcode-daily/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1486-xor-operation-in-an-array) |
 ## Divide and Conquer
@@ -91,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aditya01er/leetcode-daily/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/Aditya01er/leetcode-daily/tree/master/1920-build-array-from-permutation) |
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aditya01er/leetcode-daily/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/Aditya01er/leetcode-daily/tree/master/0383-ransom-note) |
 | [1108-defanging-an-ip-address](https://github.com/Aditya01er/leetcode-daily/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Aditya01er/leetcode-daily/tree/master/1528-shuffle-string) |
