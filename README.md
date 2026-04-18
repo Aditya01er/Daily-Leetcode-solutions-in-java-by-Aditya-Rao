@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Aditya01er/leetcode-daily/tree/master/1837-sum-of-digits-in-base-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Aditya01er/leetcode-daily/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
 | ------- |
