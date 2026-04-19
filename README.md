@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aditya01er/leetcode-daily/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Aditya01er/leetcode-daily/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Aditya01er/leetcode-daily/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aditya01er/leetcode-daily/tree/master/0138-copy-list-with-random-pointer) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aditya01er/leetcode-daily/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/Aditya01er/leetcode-daily/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/Aditya01er/leetcode-daily/tree/master/0263-ugly-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aditya01er/leetcode-daily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya01er/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya01er/leetcode-daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aditya01er/leetcode-daily/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
