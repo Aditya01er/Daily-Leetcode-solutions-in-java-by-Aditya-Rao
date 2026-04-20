@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aditya01er/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Aditya01er/leetcode-daily/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/Aditya01er/leetcode-daily/tree/master/0383-ransom-note) |
 | [1108-defanging-an-ip-address](https://github.com/Aditya01er/leetcode-daily/tree/master/1108-defanging-an-ip-address) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya01er/leetcode-daily/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aditya01er/leetcode-daily/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
