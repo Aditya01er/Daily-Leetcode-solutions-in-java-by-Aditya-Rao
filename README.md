@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Aditya01er/leetcode-daily/tree/master/0138-copy-list-with-random-pointer) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aditya01er/leetcode-daily/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aditya01er/leetcode-daily/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Aditya01er/leetcode-daily/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,16 +134,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya01er/leetcode-daily/tree/master/0002-add-two-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Aditya01er/leetcode-daily/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya01er/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Aditya01er/leetcode-daily/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Aditya01er/leetcode-daily/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Aditya01er/leetcode-daily/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Aditya01er/leetcode-daily/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Aditya01er/leetcode-daily/tree/master/2487-remove-nodes-from-linked-list) |
 ## Union-Find
 |  |
 | ------- |
