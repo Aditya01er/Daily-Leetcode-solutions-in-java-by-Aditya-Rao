@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aditya01er/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Aditya01er/leetcode-daily/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Aditya01er/leetcode-daily/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/Aditya01er/leetcode-daily/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Aditya01er/leetcode-daily/tree/master/0739-daily-temperatures) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aditya01er/leetcode-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1470-shuffle-the-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aditya01er/leetcode-daily/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/Aditya01er/leetcode-daily/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/Aditya01er/leetcode-daily/tree/master/1920-build-array-from-permutation) |
 ## String
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya01er/leetcode-daily/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Aditya01er/leetcode-daily/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Aditya01er/leetcode-daily/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
