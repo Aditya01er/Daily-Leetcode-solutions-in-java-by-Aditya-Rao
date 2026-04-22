@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya01er/leetcode-daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1920-build-array-from-permutation](https://github.com/Aditya01er/leetcode-daily/tree/master/1920-build-array-from-permutation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditya01er/leetcode-daily/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Aditya01er/leetcode-daily/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Aditya01er/leetcode-daily/tree/master/0383-ransom-note) |
 | [1108-defanging-an-ip-address](https://github.com/Aditya01er/leetcode-daily/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Aditya01er/leetcode-daily/tree/master/1528-shuffle-string) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Aditya01er/leetcode-daily/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Aditya01er/leetcode-daily/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Aditya01er/leetcode-daily/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
