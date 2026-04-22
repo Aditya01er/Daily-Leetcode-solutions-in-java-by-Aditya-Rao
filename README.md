@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aditya01er/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya01er/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Aditya01er/leetcode-daily/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Aditya01er/leetcode-daily/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/Aditya01er/leetcode-daily/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Aditya01er/leetcode-daily/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Aditya01er/leetcode-daily/tree/master/0739-daily-temperatures) |
@@ -141,12 +142,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya01er/leetcode-daily/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/Aditya01er/leetcode-daily/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Aditya01er/leetcode-daily/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Aditya01er/leetcode-daily/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aditya01er/leetcode-daily/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Aditya01er/leetcode-daily/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Aditya01er/leetcode-daily/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aditya01er/leetcode-daily/tree/master/2487-remove-nodes-from-linked-list) |
 ## Union-Find
