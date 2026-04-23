@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditya01er/leetcode-daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aditya01er/leetcode-daily/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2615-sum-of-distances](https://github.com/Aditya01er/leetcode-daily/tree/master/2615-sum-of-distances) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aditya01er/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Aditya01er/leetcode-daily/tree/master/0383-ransom-note) |
 | [0645-set-mismatch](https://github.com/Aditya01er/leetcode-daily/tree/master/0645-set-mismatch) |
+| [2615-sum-of-distances](https://github.com/Aditya01er/leetcode-daily/tree/master/2615-sum-of-distances) |
 ## Sorting
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aditya01er/leetcode-daily/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Prefix Sum
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/Aditya01er/leetcode-daily/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
