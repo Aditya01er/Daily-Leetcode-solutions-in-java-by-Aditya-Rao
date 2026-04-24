@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Aditya01er/leetcode-daily/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Aditya01er/leetcode-daily/tree/master/0383-ransom-note) |
+| [2833-furthest-point-from-origin](https://github.com/Aditya01er/leetcode-daily/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Aditya01er/leetcode-daily/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Aditya01er/leetcode-daily/tree/master/1528-shuffle-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aditya01er/leetcode-daily/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/Aditya01er/leetcode-daily/tree/master/2833-furthest-point-from-origin) |
 ## Two Pointers
 |  |
 | ------- |
