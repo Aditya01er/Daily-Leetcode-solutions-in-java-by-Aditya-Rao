@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aditya01er/leetcode-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Aditya01er/leetcode-daily/tree/master/1528-shuffle-string) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Aditya01er/leetcode-daily/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aditya01er/leetcode-daily/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aditya01er/leetcode-daily/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Aditya01er/leetcode-daily/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Doubly-Linked List
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Aditya01er/leetcode-daily/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Trie
 |  |
@@ -176,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aditya01er/leetcode-daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/1559-detect-cycles-in-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
