@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aditya01er/leetcode-daily/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya01er/leetcode-daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1920-build-array-from-permutation](https://github.com/Aditya01er/leetcode-daily/tree/master/1920-build-array-from-permutation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditya01er/leetcode-daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aditya01er/leetcode-daily/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aditya01er/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya01er/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Aditya01er/leetcode-daily/tree/master/0645-set-mismatch) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aditya01er/leetcode-daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Linked List
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Aditya01er/leetcode-daily/tree/master/1837-sum-of-digits-in-base-k) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aditya01er/leetcode-daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aditya01er/leetcode-daily/tree/master/3783-mirror-distance-of-an-integer) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Tree
 |  |
 | ------- |
