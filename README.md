@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aditya01er/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aditya01er/leetcode-daily/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Aditya01er/leetcode-daily/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -182,9 +183,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aditya01er/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/1559-detect-cycles-in-2d-grid) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aditya01er/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aditya01er/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
