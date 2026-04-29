@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aditya01er/leetcode-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aditya01er/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya01er/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aditya01er/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Aditya01er/leetcode-daily/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Aditya01er/leetcode-daily/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/Aditya01er/leetcode-daily/tree/master/0645-set-mismatch) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aditya01er/leetcode-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aditya01er/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya01er/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aditya01er/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Aditya01er/leetcode-daily/tree/master/0383-ransom-note) |
 | [0645-set-mismatch](https://github.com/Aditya01er/leetcode-daily/tree/master/0645-set-mismatch) |
 | [2615-sum-of-distances](https://github.com/Aditya01er/leetcode-daily/tree/master/2615-sum-of-distances) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aditya01er/leetcode-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aditya01er/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya01er/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aditya01er/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/Aditya01er/leetcode-daily/tree/master/0645-set-mismatch) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aditya01er/leetcode-daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -141,12 +144,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya01er/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aditya01er/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya01er/leetcode-daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya01er/leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya01er/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aditya01er/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya01er/leetcode-daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aditya01er/leetcode-daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Recursion
