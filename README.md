@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aditya01er/leetcode-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1470-shuffle-the-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Aditya01er/leetcode-daily/tree/master/1528-shuffle-string) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Aditya01er/leetcode-daily/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 | [2615-sum-of-distances](https://github.com/Aditya01er/leetcode-daily/tree/master/2615-sum-of-distances) |
 ## Geometry
 |  |
