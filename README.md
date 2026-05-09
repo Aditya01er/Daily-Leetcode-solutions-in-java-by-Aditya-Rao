@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aditya01er/leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya01er/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Aditya01er/leetcode-daily/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aditya01er/leetcode-daily/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya01er/leetcode-daily/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aditya01er/leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/Aditya01er/leetcode-daily/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Aditya01er/leetcode-daily/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Aditya01er/leetcode-daily/tree/master/0739-daily-temperatures) |
@@ -210,11 +212,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aditya01er/leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya01er/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Aditya01er/leetcode-daily/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aditya01er/leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya01er/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Aditya01er/leetcode-daily/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
