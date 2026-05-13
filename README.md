@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Aditya01er/leetcode-daily/tree/master/1837-sum-of-digits-in-base-k) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2413-smallest-even-multiple](https://github.com/Aditya01er/leetcode-daily/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aditya01er/leetcode-daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aditya01er/leetcode-daily/tree/master/3783-mirror-distance-of-an-integer) |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditya01er/leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya01er/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Aditya01er/leetcode-daily/tree/master/0226-invert-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Aditya01er/leetcode-daily/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
