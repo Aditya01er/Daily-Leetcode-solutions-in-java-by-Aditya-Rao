@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aditya01er/leetcode-daily/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya01er/leetcode-daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1920-build-array-from-permutation](https://github.com/Aditya01er/leetcode-daily/tree/master/1920-build-array-from-permutation) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Aditya01er/leetcode-daily/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditya01er/leetcode-daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aditya01er/leetcode-daily/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -179,12 +180,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Aditya01er/leetcode-daily/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Aditya01er/leetcode-daily/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Aditya01er/leetcode-daily/tree/master/0739-daily-temperatures) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Aditya01er/leetcode-daily/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aditya01er/leetcode-daily/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Aditya01er/leetcode-daily/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Aditya01er/leetcode-daily/tree/master/0739-daily-temperatures) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Aditya01er/leetcode-daily/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aditya01er/leetcode-daily/tree/master/2487-remove-nodes-from-linked-list) |
 ## Union-Find
 |  |
