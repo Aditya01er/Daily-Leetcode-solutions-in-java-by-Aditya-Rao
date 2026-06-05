@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditya01er/leetcode-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aditya01er/leetcode-daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Aditya01er/leetcode-daily/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Aditya01er/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya01er/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditya01er/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya01er/leetcode-daily/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Aditya01er/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya01er/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditya01er/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -120,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Aditya01er/leetcode-daily/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Aditya01er/leetcode-daily/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Aditya01er/leetcode-daily/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aditya01er/leetcode-daily/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -241,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Aditya01er/leetcode-daily/tree/master/2413-smallest-even-multiple) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
