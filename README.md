@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Aditya01er/leetcode-daily/tree/master/2615-sum-of-distances) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aditya01er/leetcode-daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aditya01er/leetcode-daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/Aditya01er/leetcode-daily/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditya01er/leetcode-daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aditya01er/leetcode-daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aditya01er/leetcode-daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/Aditya01er/leetcode-daily/tree/master/3886-sum-of-sortable-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya01er/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aditya01er/leetcode-daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aditya01er/leetcode-daily/tree/master/3783-mirror-distance-of-an-integer) |
+| [3886-sum-of-sortable-integers](https://github.com/Aditya01er/leetcode-daily/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Aditya01er/leetcode-daily/tree/master/0198-house-robber) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/Aditya01er/leetcode-daily/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
